@@ -1,6 +1,6 @@
 #i removed password
 class DevelopmentConfig:
-    SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://root:Bebop1216!@localhost/mechanic_mod'
+    SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://root:INSERT_PASSWORD@localhost/mechanic_mod'
     DEBUG = True
     CACHE_TYPE = "SimpleCache"
 
